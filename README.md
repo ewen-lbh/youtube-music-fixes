@@ -1,6 +1,6 @@
 # youtube-music-fixes
 Various userscripts for YouTube Music. Currently avaible: 
-- Tab title fix
+- Tab title fix [download](https://github.com/ewen-lbh/youtube-music-fixes/raw/master/tab-title.user.js)
 
 ## Installing
 
@@ -13,9 +13,6 @@ You'll need an extension for your browser to use these scripts.
 - [Greasemonkey Port(SeaMonkey)](https://sourceforge.net/projects/gmport/)
 
 **Note: on chrome and chromium version 4 and higher, userscripts are supported by default**
-
-### Download
-To install this userscript, just [click here](https://github.com/ewen-lbh/youtube-music-fixes/raw/master/tab-title.user.js)
 
 
 ## Contributing
