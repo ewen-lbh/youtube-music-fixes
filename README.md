@@ -1,6 +1,6 @@
 # youtube-music-fixes
 Various userscripts for YouTube Music. Currently avaible: 
-- Tab title fix [download](https://github.com/ewen-lbh/youtube-music-fixes/raw/master/tab-title.user.js)
+- Tab title fix \[[download](https://github.com/ewen-lbh/youtube-music-fixes/raw/master/tab-title.user.js)\]
 
 ## Installing
 
