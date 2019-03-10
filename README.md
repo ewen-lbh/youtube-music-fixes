@@ -15,7 +15,7 @@ You'll need an extension for your browser to use these scripts.
 **Note: on chrome and chromium version 4 and higher, userscripts are supported by default**
 
 ### Download
-To install this userscript, just [Click here](https://github.com/ewen-lbh/youtube-music-fixes/raw/master/tab-title.user.js)
+To install this userscript, just [click here](https://github.com/ewen-lbh/youtube-music-fixes/raw/master/tab-title.user.js)
 
 
 ## Contributing
